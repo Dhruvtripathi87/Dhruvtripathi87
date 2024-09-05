@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Dhruv Tripathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img src="![image](https://github.com/user-attachments/assets/362215f6-41a6-4689-9dfc-d5af72eaa266)" alt="">
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvtripathi87&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvtripathi87" /> </p>
