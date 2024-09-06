@@ -1,22 +1,27 @@
 ![logo](https://github.com/Dhruvtripathi87/Dhruvtripathi87/blob/main/Digital%20minimalist%20software%20developer%20LinkedIn%20banner.jpg)
 
 <h1 align="center"> नमस्ते (Namaste)🙏🏻, I'm Dhruv Tripathi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 style="text-align: center;">💻 Crafting Code, Building Dreams. 🚀</h2>
+
 
 <img src="![image](https://github.com/user-attachments/assets/00f76c01-b12e-475d-ac54-cd00763b6953" alt="">
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvtripathi87&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvtripathi87" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tech_cse_" target="blank"><img src="https://img.shields.io/twitter/follow/tech_cse_?logo=twitter&style=for-the-badge" alt="tech_cse_" /></a> </p>
+<img src="https://github.com/user-attachments/assets/ac3459e1-efea-47a5-97d7-17bed0f73061" alt="GIF Example" style="position: absolute; left: 0; top: 90%; transform: translateY(-50%); width: 400px; height: auto;">
 
-- 📫 How to reach me **dhruvtripathi196@gmail.com**
+
+
+
+
+
+
+📫 How to reach me **dhruvtripathi196@gmail.com**
 
 - ⚡  **A solivagant with good smile!**
 
-- In my spare time :- 
+ In my spare time :- 
 - I love reading books.
 - Working on projects ideas. 
 - Write blog post.
