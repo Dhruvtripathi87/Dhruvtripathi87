@@ -1,6 +1,6 @@
 ![logo](https://github.com/Dhruvtripathi87/Dhruvtripathi87/blob/main/Digital%20minimalist%20software%20developer%20LinkedIn%20banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Dhruv Tripathi</h1>
+<h1 align="center"> नमस्ते (Namaste)🙏🏻, I'm Dhruv Tripathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img src="![image](https://github.com/user-attachments/assets/00f76c01-b12e-475d-ac54-cd00763b6953" alt="">
